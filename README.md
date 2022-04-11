@@ -12,6 +12,11 @@ Bash scripts start with a shebang (`#!`) followed by a path to the application t
 
 `which $SHELL` - prints currently used shell
 
+`ls -a` - list all files and folders (incl. hidden ones, beginning with dot)
+`ls -l` - long ditailed list
+`ls -la` - long ditailed incl. hidden
+
+
 ---
 ### Watching:
-- [Beginner's Guide to the Bash Terminal [7:40]](https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins)
+- [Beginner's Guide to the Bash Terminal [8:40]](https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins)
