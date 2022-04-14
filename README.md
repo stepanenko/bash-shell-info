@@ -16,7 +16,11 @@ Bash scripts start with a shebang (`#!`) followed by a path to the application t
 `ls -l` - long ditailed list  
 `ls -la` - long ditailed incl. hidden
 
+`cd` / `cd ~` - takes you home
+
+`pushd <absolute_path>` - takes you to <absolute_path> but saves the current path  
+`popd` - takes you back to the saved location
 
 ---
 ### Watching:
-- [Beginner's Guide to the Bash Terminal [8:40]](https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins)
+- [Beginner's Guide to the Bash Terminal [14:30]](https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins)
