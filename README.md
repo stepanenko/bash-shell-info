@@ -24,3 +24,11 @@ Bash scripts start with a shebang (`#!`) followed by a path to the application t
 ---
 ### Watching:
 - [Beginner's Guide to the Bash Terminal [14:30]](https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins)
+
+
+## Shortcuts
+
+Keys | Meaning
+--- | ---
+CMD + L | Clear last terminal's output
+CMD + K | Clear all terminal's output
