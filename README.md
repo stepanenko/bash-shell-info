@@ -1,5 +1,5 @@
 
-# Bash / Shell Notes
+# Bash / Shell
 
 `SSH` - secure shell  
 `~` - home directory  
